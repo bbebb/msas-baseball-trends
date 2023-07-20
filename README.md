@@ -4,4 +4,4 @@ This repository contains research created for the University of Michigan Sports 
 
 The accompanying csv files are all necessary to have the notebook run as intended. 
 
-Upon completing our research, my team and I presented our findings specifically on the benefits of defensive shifting in Major League Baseball at the 2022 Michigan Sports Analytics Symposium, an event at the University of Michigan that draws analysts from around the country to speak about the role of analytics in sports.
+Upon completing our research, my team and I presented our findings specifically on the benefits of defensive shifting in Major League Baseball at the 2022 Michigan Sports Analytics Symposium, an event at the University of Michigan that draws analysts from around the country to speak about the role of analytics in sports. 
